@@ -1,0 +1,5 @@
+Total Revenue: $ 18971412
+Total Months: 41
+Average Monthly Change: $ -6758
+Largest Increase In Revenue: Feb-16 $ 1837235
+Largest Decrease In Revenue: Aug-14 $ -1779747
